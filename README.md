@@ -13,7 +13,7 @@
 
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes Vs Goals](https://user-images.githubusercontent.com/88911655/134045436-d3d9b9a5-4c70-4c61-b3b4-bc1272ace181.png)
+
 
 
 ### Challenges and Difficulties Encountered
