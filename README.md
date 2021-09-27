@@ -13,7 +13,7 @@
 
 
 ### Analysis of Outcomes Based on Goals
-
+![image](https://user-images.githubusercontent.com/88911655/134831103-19038077-e270-4813-8bd4-3e44047f79a9.png)
 
 
 ### Challenges and Difficulties Encountered
